@@ -34,7 +34,7 @@
 ### My github stats:
 
 <img align="left" alt="Christian Angeles GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SleepWalKer09&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepWalKer09"/>
+<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepWalKer09&layout=compact"/>
 <br />
 
 [linkedin]: https://www.linkedin.com/in/christian-angeles/
