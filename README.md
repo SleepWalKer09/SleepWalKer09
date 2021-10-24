@@ -19,6 +19,7 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-black?style=plastic-square&logo=ethereum)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic-square&logo=mongodb)
 ![R](https://img.shields.io/badge/-R-black?style=plastic-square&logo=R)
+![C#](https://img.shields.io/badge/-C%23-black?style=plastic-square&logo=Csharp)
 <br />
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic-square&logo=amazon-aws)
