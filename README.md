@@ -7,7 +7,7 @@
 
 
 ### Connect with me:
-<img align="left" alt="My LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+[<img align="left" alt="My LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
 
@@ -22,7 +22,7 @@
 ![C#](https://img.shields.io/badge/-C%23-black?style=plastic-square&logo=Csharp)
 <br />
 
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic-square&logo=amazon-aws)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=plastic-square&logo=amazon-aws)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic-square&logo=github)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=plastic-square&logo=Tensorflow)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-black?style=plastic-square&logo=microsoft-sql-server)
