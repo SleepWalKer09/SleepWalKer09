@@ -33,8 +33,12 @@
 
 ### My github stats:
 
-<img align="left" alt="Christian Angeles GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SleepWalKer09&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-<img  alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepWalKer09&"/>
-<br />
+
+<a href="https://github-readme-stats.vercel.app/api?username=SleepWalKer09&&show_icons=true&theme=tokyonight">
+  <img align="center" alt="Christian Angeles GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SleepWalKer09&&show_icons=true&theme=tokyonight&include_all_commits=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepWalKer09&layout=compact&exclude_repo=Basic-Mathematics-for-Machine-Learning,CDMXSOAI&langs_count=6">
+  <img align="center" alt="Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepWalKer09&layout=compact&exclude_repo=Estadia&langs_count=6&Cache-Control: no-cache" />
+</a>
 
 [linkedin]: https://www.linkedin.com/in/christian-angeles/
