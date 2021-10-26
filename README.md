@@ -36,10 +36,9 @@
 
 <a href="https://github-readme-stats.vercel.app/api?username=SleepWalKer09&&show_icons=true&theme=tokyonight&include_all_commits=true">
   <img align="left" alt="Christian Angeles GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SleepWalKer09&&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <br />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepWalKer09&layout=compact&exclude_repo=Estadia&langs_count=6">
-  <img alt="Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepWalKer09&layout=compact&exclude_repo=Estadia&langs_count=6" />
+  <img align="right" alt="Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepWalKer09&layout=compact&exclude_repo=Estadia&langs_count=6" />
 </a>
 
 [linkedin]: https://www.linkedin.com/in/christian-angeles/
